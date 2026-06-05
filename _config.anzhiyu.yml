@@ -85,7 +85,7 @@ home_top:
 
 inject:
   head:
-    - <link rel="stylesheet" href="/css/zhizhi-home.css">
+    - <link rel="stylesheet" href="/css/zhizhi-home.css?v=20260605-skillwall">
 
 reward:
   enable: false
