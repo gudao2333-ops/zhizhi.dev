@@ -85,7 +85,14 @@ home_top:
 
 inject:
   head:
-    - <style>#home_top #random-banner{background:linear-gradient(135deg,#f6f4ee 0%,#ffffff 58%,#fff0f3 100%)}#home_top .banners-title{z-index:2}#home_top .banners-title-big{color:#1f1f1f;text-shadow:none}#home_top .banners-title-small{color:rgba(31,31,31,.62)}#home_top #skills-tags-group-all{display:none!important}</style>
+    - |
+      <style>
+      #home_top #random-banner{background:linear-gradient(135deg,#f6f4ee 0%,#ffffff 58%,#fff0f3 100%)}
+      #home_top .banners-title{z-index:2}
+      #home_top .banners-title-big{color:#1f1f1f;text-shadow:none}
+      #home_top .banners-title-small{color:rgba(31,31,31,.62)}
+      #home_top #skills-tags-group-all{display:none!important}
+      </style>
 
 reward:
   enable: false
