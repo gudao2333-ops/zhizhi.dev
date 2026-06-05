@@ -1,0 +1,87 @@
+- name: 吱吱AI
+  subtitle: AI与技术随记
+  avatarImg: /img/zhizhi-ai-avatar.webp
+  description: 分享 AI、效率工具、网站搭建与灵感记录。
+  helloAbout: 你好，很高兴在这里遇见你。
+  avatarSkills:
+    left:
+      - AI
+      - 工具
+    right:
+      - 建站
+      - 灵感
+  aboutsiteTips:
+    tips: 站点定位
+    title1: 这里记录
+    title2: 吱吱AI 关心的内容
+    word:
+      - AI
+      - 工具
+      - 技术
+      - 灵感
+  skillsTips:
+    tips: 关注方向
+    title: 持续学习与输出
+  careers:
+    tips: 正在做的事
+    title: 目前的内容方向
+    img: /img/zhizhi-ai-banner.png
+    list:
+      - desc: 研究实用的 AI 工具与工作流
+        color: "#4c8bf5"
+      - desc: 记录 Hexo、Cloudflare 与搭站经验
+        color: "#f56c6c"
+      - desc: 分享灵感、效率和内容创作实践
+        color: "#67c23a"
+  map:
+    title: 这里是
+    StrengthenTitle: 吱吱AI 的数字角落
+    background: /img/zhizhi-ai-banner.png
+    backgroundDark: /img/zhizhi-ai-banner.png
+  selfInfo:
+    selfInfoTips1: 建站时间
+    selfInfoContentYear: "2026"
+    selfInfoTips2: 联系邮箱
+    selfInfoContent2: hi@zhizhi.dev
+    selfInfoTips3: 抖音
+    selfInfoContent3: 吱吱ai
+  personalities:
+    author_name: 吱吱AI
+    personality_type: 创作者 / 实验派
+    personality_type_color: "#e84545"
+    photo_url: /img/zhizhi-ai-avatar.webp
+    personality_img: /img/zhizhi-ai-avatar.webp
+    name_url: https://zhizhi.dev/
+  maxim:
+    maxim_tips: 想法
+    maxim_top: 让复杂的技术
+    maxim_bottom: 变得更好懂一点
+  buff:
+    buff_tips: 小目标
+    buff_top: 持续输出
+    buff_bottom: 有用且真诚的内容
+  game:
+    game_tips: 最近在折腾
+    game_title: AI 博客与工具实验
+    game_uid: 站点建设进行中
+    game_bg: /img/zhizhi-ai-banner.png
+  comic:
+    comic_tips: 联系方式
+    comic_title: 可以在这里找到我
+    comic_list:
+      - name: 邮箱
+        href: mailto:hi@zhizhi.dev
+        cover: /img/zhizhi-ai-avatar.webp
+      - name: 抖音
+        href: https://www.douyin.com/search/%E5%90%B1%E5%90%B1ai?type=user
+        cover: /img/zhizhi-ai-avatar.webp
+  like:
+    like_tips: 关注方向
+    like_title: AI、工具、网站搭建
+    like_bottom: 把经验沉淀下来，也把灵感留给未来的自己。
+    like_bg: /img/zhizhi-ai-banner.png
+  music:
+    music_tips: 继续看看
+    music_title: 从文章开始认识这里
+    music_link: /archives/
+    music_bg: /img/zhizhi-ai-banner.png

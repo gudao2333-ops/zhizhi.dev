@@ -1,0 +1,94 @@
+menu:
+  文章:
+    归档: /archives/ || anzhiyu-icon-box-archive
+    分类: /categories/ || anzhiyu-icon-shapes
+    标签: /tags/ || anzhiyu-icon-tags
+  关于:
+    关于本站: /about/ || anzhiyu-icon-paper-plane
+
+subtitle:
+  enable: true
+  effect: true
+  source: false
+  sub:
+    - 在这里记录 AI、技术与灵感
+
+avatar:
+  img: /img/zhizhi-ai-avatar.webp
+  effect: false
+
+favicon: /img/zhizhi-ai-favicon.png
+
+preloader:
+  avatar: /img/zhizhi-ai-avatar.webp
+
+social:
+  邮箱: mailto:hi@zhizhi.dev || anzhiyu-icon-envelope
+  抖音: https://www.douyin.com/search/%E5%90%B1%E5%90%B1ai?type=user || anzhiyu-icon-tiktok
+
+aside:
+  card_author:
+    description: 分享 AI、效率工具、网站搭建与灵感记录。
+    name_link: /about/
+  card_announcement:
+    enable: true
+    content: 欢迎来到吱吱AI，愿这里的内容对你有一点启发。
+  card_weixin:
+    enable: false
+
+footer:
+  owner:
+    enable: true
+    since: 2026
+  custom_text: '<a href="mailto:hi@zhizhi.dev">hi@zhizhi.dev</a> · 抖音：吱吱ai'
+  socialBar:
+    enable: true
+    centerImg: /img/zhizhi-ai-avatar.webp
+    left:
+      - title: email
+        link: mailto:hi@zhizhi.dev
+        icon: anzhiyu-icon-envelope
+    right:
+      - title: 抖音
+        link: https://www.douyin.com/search/%E5%90%B1%E5%90%B1ai?type=user
+        icon: anzhiyu-icon-tiktok
+
+peoplecanvas:
+  enable: false
+
+home_top:
+  title: 吱吱AI
+  subTitle: AI、工具与技术随记
+  siteText: zhizhi.dev
+  default_descr: 记录有用的 AI 工具、搭站经验和灵感瞬间。
+  category:
+    - name: 归档
+      path: /archives/
+      shadow: var(--anzhiyu-shadow-blue)
+      class: blue
+      icon: anzhiyu-icon-box-archive
+    - name: 分类
+      path: /categories/
+      shadow: var(--anzhiyu-shadow-red)
+      class: red
+      icon: anzhiyu-icon-shapes
+    - name: 关于
+      path: /about/
+      shadow: var(--anzhiyu-shadow-green)
+      class: green
+      icon: anzhiyu-icon-paper-plane
+  banner:
+    tips: 欢迎来到
+    title: 吱吱AI
+    image: /img/zhizhi-ai-banner.png
+    link: /about/
+
+inject:
+  head:
+    - <style>#home_top #random-banner{background:linear-gradient(135deg,#f6f4ee 0%,#ffffff 58%,#fff0f3 100%)}#home_top .banners-title{z-index:2}#home_top .banners-title-big{color:#1f1f1f;text-shadow:none}#home_top .banners-title-small{color:rgba(31,31,31,.62)}#home_top #skills-tags-group-all{display:none!important}</style>
+
+reward:
+  enable: false
+
+post_copyright:
+  enable: false
