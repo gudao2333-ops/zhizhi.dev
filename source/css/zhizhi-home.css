@@ -62,7 +62,34 @@
 }
 
 #home_top #skills-tags-group-all {
-  display: none !important;
+  display: flex !important;
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  opacity: 0.94;
+  mask-image: linear-gradient(90deg, transparent 0, transparent 22%, rgba(0, 0, 0, 0.42) 34%, rgba(0, 0, 0, 0.96) 48%, rgba(0, 0, 0, 0.96) 86%, transparent 100%);
+  -webkit-mask-image: linear-gradient(90deg, transparent 0, transparent 22%, rgba(0, 0, 0, 0.42) 34%, rgba(0, 0, 0, 0.96) 48%, rgba(0, 0, 0, 0.96) 86%, transparent 100%);
+}
+
+#home_top #skills-tags-group-all .tags-group-wrapper {
+  margin-top: 5.75rem;
+  padding-left: 14.5rem;
+}
+
+#home_top #skills-tags-group-all .tags-group-icon {
+  border: 1px solid rgba(255, 255, 255, 0.92);
+  box-shadow:
+    0 18px 40px rgba(42, 31, 25, 0.1),
+    0 3px 10px rgba(42, 31, 25, 0.05);
+}
+
+#home_top #skills-tags-group-all .tags-group-icon img {
+  width: 56px;
+  height: 56px;
+}
+
+#home_top #random-banner:hover #skills-tags-group-all {
+  opacity: 0.2;
 }
 
 #home_top #random-hover {

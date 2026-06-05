@@ -1,0 +1,37 @@
+- creativity_list:
+    - name: OpenAI
+      color: "#111827"
+      icon: "https://cdn.simpleicons.org/openai/FFFFFF"
+    - name: Cloudflare
+      color: "#F38020"
+      icon: "https://cdn.simpleicons.org/cloudflare/FFFFFF"
+    - name: Hexo
+      color: "#0E83CD"
+      icon: "https://cdn.simpleicons.org/hexo/FFFFFF"
+    - name: Markdown
+      color: "#111111"
+      icon: "https://cdn.simpleicons.org/markdown/FFFFFF"
+    - name: GitHub
+      color: "#24292F"
+      icon: "https://cdn.simpleicons.org/github/FFFFFF"
+    - name: Git
+      color: "#F05032"
+      icon: "https://cdn.simpleicons.org/git/FFFFFF"
+    - name: Node.js
+      color: "#5FA04E"
+      icon: "https://cdn.simpleicons.org/nodedotjs/FFFFFF"
+    - name: JavaScript
+      color: "#F7DF1E"
+      icon: "https://cdn.simpleicons.org/javascript/111111"
+    - name: HTML5
+      color: "#E34F26"
+      icon: "https://cdn.simpleicons.org/html5/FFFFFF"
+    - name: CSS
+      color: "#1572B6"
+      icon: "https://cdn.simpleicons.org/css/FFFFFF"
+    - name: Visual Studio Code
+      color: "#2F80ED"
+      icon: "https://cdn.simpleicons.org/visualstudiocode/FFFFFF"
+    - name: Docker
+      color: "#2496ED"
+      icon: "https://cdn.simpleicons.org/docker/FFFFFF"
