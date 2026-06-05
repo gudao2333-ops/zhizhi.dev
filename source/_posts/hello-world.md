@@ -2,7 +2,7 @@
 title: 欢迎来到吱吱AI
 date: 2026-06-05 18:00:00
 description: 这是吱吱AI的第一篇文章，也是这个站点的启用说明。
-cover: /img/zhizhi-ai-banner.png
+cover: /img/zhizhi-ai-banner.svg
 categories:
   - 建站
 tags:

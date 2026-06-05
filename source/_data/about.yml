@@ -25,7 +25,7 @@
   careers:
     tips: 正在做的事
     title: 目前的内容方向
-    img: /img/zhizhi-ai-banner.png
+    img: /img/zhizhi-ai-banner.svg
     list:
       - desc: 研究实用的 AI 工具与工作流
         color: "#4c8bf5"
@@ -36,8 +36,8 @@
   map:
     title: 这里是
     StrengthenTitle: 吱吱AI 的数字角落
-    background: /img/zhizhi-ai-banner.png
-    backgroundDark: /img/zhizhi-ai-banner.png
+    background: /img/zhizhi-ai-banner.svg
+    backgroundDark: /img/zhizhi-ai-banner.svg
   selfInfo:
     selfInfoTips1: 建站时间
     selfInfoContentYear: "2026"
@@ -64,7 +64,7 @@
     game_tips: 最近在折腾
     game_title: AI 博客与工具实验
     game_uid: 站点建设进行中
-    game_bg: /img/zhizhi-ai-banner.png
+    game_bg: /img/zhizhi-ai-banner.svg
   comic:
     comic_tips: 联系方式
     comic_title: 可以在这里找到我
@@ -79,9 +79,9 @@
     like_tips: 关注方向
     like_title: AI、工具、网站搭建
     like_bottom: 把经验沉淀下来，也把灵感留给未来的自己。
-    like_bg: /img/zhizhi-ai-banner.png
+    like_bg: /img/zhizhi-ai-banner.svg
   music:
     music_tips: 继续看看
     music_title: 从文章开始认识这里
     music_link: /archives/
-    music_bg: /img/zhizhi-ai-banner.png
+    music_bg: /img/zhizhi-ai-banner.svg
