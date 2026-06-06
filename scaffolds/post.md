@@ -1,8 +1,9 @@
 ---
 title: {{ title }}
 date: {{ date }}
+updated: {{ date }}
 description:
-cover:
-categories:
-tags:
+cover: /img/covers/zhizhi-default-cover.png
+categories: []
+tags: []
 ---

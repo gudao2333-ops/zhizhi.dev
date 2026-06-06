@@ -92,3 +92,7 @@ reward:
 
 post_copyright:
   enable: false
+
+cover:
+  default_cover:
+    - /img/covers/zhizhi-default-cover.png

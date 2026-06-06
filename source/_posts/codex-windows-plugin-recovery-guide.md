@@ -3,7 +3,7 @@ title: Codex Computer Use 消失解决办法
 date: 2026-06-05 18:49:56
 updated: 2026-06-05 18:55:49
 description: 记录 Windows 版 Codex Desktop 中 Browser、Chrome、Computer Use 插件突然消失时，一套更稳妥的排查与恢复办法。
-cover: /img/zhizhi-ai-banner.svg
+cover: /img/covers/zhizhi-default-cover.png
 categories:
   - Codex
 tags:
